@@ -4,6 +4,7 @@ title: projects
 permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
+published: false
 display_categories: [work, fun]
 horizontal: false
 ---
