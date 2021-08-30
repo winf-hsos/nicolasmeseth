@@ -18,22 +18,10 @@ strong {
   color: var(--global-text-color);
 }
 
-/*
-p, div, span {
-  font-family: 'PT Serif', serif;
-  font-size: 1.1rem;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Roboto Condensed';
-  font-weight: 400;
-
-}
-*/
 strong {
   font-weight: normal;
   background-color: rgba(0, 158, 227, 0.15);  
-  color: #303030;
+  color: var(--global-text-color);
   padding: 0px 2px;
 }
 
