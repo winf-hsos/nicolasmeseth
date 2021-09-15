@@ -1,0 +1,27 @@
+---
+layout: post
+title:  Das neue Wintersemester 21/22
+date:   2021-09-15 00:00:00
+description: Im kommenden Semester kehren wir ein Stück weit zur Normalität zurück. Aber was ist überhaupt "normal"?
+published: true
+---
+
+Das neue Semester steht vor der Tür. In diesen Beitrag möchte ich euch ein paar Informationen geben, falls ihr eines meiner Module belegt. 
+
+## Zurück zur Normalität
+
+Wie ihr sicher schon wisst, wird die Hochschule Osnabrück nach drei Online-Semestern versuchen, in die Präsenzlehre zurückkehren. Um das möglichst sicher zu gestalten, wird die bekannte 3G-Regel angewendet: Wer an einer Veranstaltung in Präsenz teilnehmen möchte, muss entweder geimpft, genesen oder getestet sein.
+
+## Online oder Präsenz: Ihr habt die Wahl
+
+Auch ich werde in meinen Veranstaltungen wieder Präsenztermine anbieten. In den Bachelormodulen [Applied Analytics](https://www.hs-osnabrueck.de/module/44b0586/), [Information Management](https://www.hs-osnabrueck.de/module/44b0578/) und [Web Engineering](https://www.hs-osnabrueck.de/module/44b0585/) werden die Montagstermine am Campus stattfinden. Die Freitagstermine, die für individuelle Fragen reserviert sind, werden dagegen vollständig online via Zoom angeboten. In der Vergangenheit hat sich gezeigt, dass der Freitag bei Studierenden kein beliebter Tag ist und die Anwesenheit auf dem Campus daher ohnehin stark eingeschränkt ist. 
+
+Auch für Sitzungen am Montag möchte ich parallel die virtuelle Teilnahme via Zoom ermöglichen. Ihr habt die freie Wahl, ob ihr für die Veranstaltung zum Campus kommen oder lieber von zuhause aus teilnehmen wollt. Ausnahme sind Studierende, die nicht vollständig geimpft sind. Euch möchte ich bitten, in jedem Fall das Online-Angebot wahrzunehmen, bis ihr vollen Impfschutz habt.
+
+Das parallele Online-Angebot via Zoom hat auch den Vorteil, dass wir jede Sitzung vollständig oder zumindest teilweise aufzeichnen und für das Selbsstudium bereitstellen können und werden. 
+
+## ILIAS Pilot
+
+Wie vielleicht einige wissen, wird unser aktuelles Lernmanagementsystem (LMS) [OSCA](http://osca.hs-osnabrueck.de/) bald durch das neue System ILIAS abgelöst. Um eine reibungslose Einführung zu gewährleisten, finden in diesem und auch im folgenden Semester Piloten statt. Das bedeutet konkret, dass einzelne Dozent*innen ihre Lehrveranstaltungen schon jetzt auf freiwilliger Basis über das neue LMS abwickeln können. Dazu gehöre auch ich und ich freue mioh, dass wir die Möglichkeit haben, an diesem Piloten gemeinsam teilzunehmen.
+
+Sobald ich mit der Einrichtung der Veranstaltungen im neuen Systen ILIAS fertig bin, werde ich euch via Ankündigung in OSCA einen Link zukommen lassen, über den ihr direkt zur Veranstaltung in ILIAS gelangt. Von dort an ist erstmal nur ILIAS relevant. Die Prüfungsanmeldung erfolgt in diesem Semester aber weiter über OSCA.
