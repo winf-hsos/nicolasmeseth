@@ -14,8 +14,10 @@ nav: true
 
 </div>
 
-👷‍♂️ This page does not include all publications yet. Check out my [LinkedIn profile](www.linkedin.com/in/nicolasmeseth) in the meantime.
-
 ## talks
 
-👷‍♂️ Work in progress. Come back at a later time.
+11/2021: *Asynchrone Zusammenarbeit und Feedback in digitalen Lehrformaten –  Erfahrungen und Praxisbeispiele*, Vortrag auf der [Lehr-Lernkonferenz 2021 der Hochschule Osnabrück](Asynchrone Zusammenarbeit und Feedback in digitalen Lehrformaten –  Erfahrungen und Praxisbeispiele).
+
+---
+👷‍♂️ This page does not include all publications and talks yet. Check out my [LinkedIn profile](www.linkedin.com/in/nicolasmeseth) in the meantime.
+

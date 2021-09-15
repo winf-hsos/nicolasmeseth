@@ -8,16 +8,16 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-## University of Applied Sciences Osnabrück
+### university of applied sciences osnabrück
 ---
 
 - 03/2021 - today: **coordinator of the local IT department** for our campus in Osnabrück/Haste.
 - 03/2021 - today: **(co-)speaker of the our undergraduate and graduate study programs** [BWA](https://www.hs-osnabrueck.de/studium/studienangebot/bachelor/wirtschaftsingenieurwesen-agrarlebensmittel-beng/) and [MAL](https://www.hs-osnabrueck.de/studium/studienangebot/master/agrar-und-lebensmittelwirtschaft-meng/)
 - 02/2020 - 09/2021: member of the global "**Markenkern Team**". Find more information [here](https://www.hs-osnabrueck.de/markenkernprozess).
 - 01/2019: co-lead of the **Campusbier** project ([campusbier.de](https://campusbier.de/))
-- 09/2016: appointment as Professor for Information Systems (**Wirtschaftsinformatik**)
+- 09/2016: appointment as professor for information systems (**Wirtschaftsinformatik**)
 
-## Professional Career
+### professional career
 ---
 
 - 2015 - 2016: [Deloitte Analytics Institute](https://www2.deloitte.com/de/de/pages/deloitte-analytics/topics/deloitte-analytics-institute.html) (Berlin), manager for big data and analytics projects, mostly **automotive industry**
