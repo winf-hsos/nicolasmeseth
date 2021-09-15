@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: talks & publications
-description: published work I was involved in.
+title: publications & talks
+description: published work I was involved in. talks I gave.
 years: [2020, 1956, 1950, 1935, 1905]
 nav: true
 ---
