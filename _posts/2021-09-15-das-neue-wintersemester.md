@@ -22,9 +22,9 @@ Auch in den Masterveranstaltungen werde ich neben der Präsenz die Online-Teilna
 
 ## ILIAS Pilot
 
-Wie vielleicht einige wissen, wird unser aktuelles Lernmanagementsystem (LMS) [OSCA](http://osca.hs-osnabrueck.de/) bald durch das neue System ILIAS abgelöst. Um eine reibungslose Einführung zu gewährleisten, finden in diesem und auch im folgenden Semester Piloten statt. Das bedeutet konkret, dass einzelne Dozent*innen ihre Lehrveranstaltungen schon jetzt auf freiwilliger Basis über das neue LMS abwickeln können. Dazu gehöre auch ich und ich freue mioh, dass wir die Möglichkeit haben, an diesem Piloten gemeinsam teilzunehmen.
+Wie vielleicht einige wissen, wird unser aktuelles Lernmanagementsystem (LMS) [OSCA](http://osca.hs-osnabrueck.de/) bald durch das neue System ILIAS abgelöst. Um eine reibungslose Einführung zu gewährleisten, finden in diesem und auch im folgenden Semester Piloten statt. Das bedeutet konkret, dass einzelne Dozent*innen ihre Lehrveranstaltungen schon jetzt auf freiwilliger Basis über das neue LMS abwickeln können. Dazu gehöre auch ich und ich freue mich, dass wir die Möglichkeit haben, an diesem Piloten gemeinsam teilzunehmen.
 
-Sobald ich mit der Einrichtung der Veranstaltungen im neuen Systen ILIAS fertig bin, werde ich euch via Ankündigung in OSCA einen Link zukommen lassen, über den ihr direkt zur Veranstaltung in ILIAS gelangt. Von dort an ist erstmal nur ILIAS relevant. Die Prüfungsanmeldung erfolgt in diesem Semester aber weiter über OSCA.
+Sobald ich mit der Einrichtung der Veranstaltungen im neuen System ILIAS fertig bin, werde ich euch via OSCA-Ankündigung einen Link zukommen lassen, über den ihr direkt zur Veranstaltung in ILIAS gelangt. Von dort an ist erstmal nur ILIAS relevant. Die Prüfungsanmeldung erfolgt in diesem Semester aber weiter über OSCA (!).
 
 Hier geht es schon jetzt zur Einstiegssteite der neuen Lernplattform: [https://lms.hs-osnabrueck.de/](https://lms.hs-osnabrueck.de/)
 
