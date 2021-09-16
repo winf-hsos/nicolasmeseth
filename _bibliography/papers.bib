@@ -1,11 +1,11 @@
 ---
 ---
 
-@article{zmijewskimeseth2020,
+@inproceedings{zmijewskimeseth2020,
   bibtex_show={true},
   title={Evaluation of Bayesian Optimization applied to Discrete-Event Simulation},
   author={Zmijewski, Philipp and Meseth, Nicolas},
-  journal={Proceedings of the Simulation Innovation Workshop},
+  booktitle={Proceedings of the Simulation Innovation Workshop},
   year={2020},
   publisher={Simulation Interoperability Standards Organization (SISO),},
   html={https://opus.hs-osnabrueck.de/frontdoor/index/index/year/2020/docId/1564},
@@ -13,14 +13,82 @@
   abstract={In this paper, we evaluate the application of Bayesian Optimization (BO) to discrete event simulation (DES) models. In a first step, we create a simple model, for which we know the optimal set of parameter values in advance. We implement the model in SimPy, a framework for DES written in Python. We then interpret the simulation model as a black box function subject to optimization. We show that it is possible to find the optimal set of parameter values using the open source library GPyOpt. To enhance our evaluation, we create a second and more complex model. To better handle the complexity of the model, and to add a visual component, we build the second model in Simio, a commercial off-the-shelf simulation modeling tool. To apply BO to a model in Simio, we use the Simio API to write an extension for optimization plug-ins. This extension encapsulates the logic of the BO algorithm, which we deployed as a web service in the cloud. [..]},
 }
 
-@article{kirchhofmeseth2012,
+@inproceedings{kirchhofmeseth2012,
   bibtex_show={true},
   title={A survey on the use of simulation in German healthcare},
   author={Kirchhof, Patrick and Meseth, Nicolas},
-  journal={Proceedings of the 2012 Winter Simulation Conference},
+  booktitle={Proceedings of the 2012 Winter Simulation Conference},
   year={2012},
-  publisher={INFORMS-SIM},
   pdf={https://informs-sim.org/wsc12papers/includes/files/con239.pdf},
   abstract={This paper reports on the results of a survey conducted among German healthcare institutions to collect data about the use of simulation in the respective field. The setup follows a survey published in Greasley (2008). One goal of the survey was to assess how many institutions have used simulation as a decision making tool before, and if they plan to do so in the future. Another focus are the potential reasons against the use of simulation, which are grouped into the categories costs, awareness, skills & experience, organizational-, and technical obstacles. The results indicate that while the use of simulation in German healthcare is low, costs are the main reason against a wider adoption. Following are lack of awareness among decision makers, and a lack of skills within the internal staff. An alleged negative reputation of simulation could not be confirmed.}
 }
+
+@phdthesis{meseth2011,
+  bibtex_show={true},
+  title={XML-based DEVS Modeling and Interpretation},
+  author={Meseth, Nicolas},
+  year={2011},
+  publisher={Universität Osnabrück},
+  pdf={https://repositorium.ub.uni-osnabrueck.de/bitstream/urn:nbn:de:gbv:700-201111288562/1/thesis_meseth.pdf},
+  html={https://repositorium.ub.uni-osnabrueck.de/handle/urn:nbn:de:gbv:700-201111288562},
+  abstract={Diese Arbeit befasst sich mit der Modellierung von Simulationskomponenten mittels einer XML-basierten Sprache, die im Rahmen dieser Arbeit entwickelt wird und die für die Abbildung des DEVS Formalismus konzipiert ist. Es wird gezeigt, wie der DEVS Formalismus in XML modelliert werden kann. Durch die Verwendung von XML sowohl für die Struktur als auch für das Verhalten der Modelle wird eine Programmiersprachenunabhängigkeit erreicht, die eine Wiederverwendung bestehender Modelle vereinfacht. Um die Modelle ausführen zu können wird die Interpretation der XML-basierten Sprache vorgeschlagen und ein entsprechender Interpreter in Java implementiert. Am Beispiel des DEVSJAVA-Simulators wird demonstriert, wie die XML-Beschreibungen und der Interpreter mit wenig Aufwand von einem beliebigen Zielsimulator adaptiert werden können.}
+}
+
+@inproceedings{kirchhofmeseth2010,
+  bibtex_show={true},
+  title={Graphical Object Oriented Simulation with SIMIO},
+  author={Kirchhof, Patrick and Meseth, Nicolas},
+  booktitle={Proceedings of the 2010 Industrial Simulation Conference},
+  year={2010},
+  html={https://www.eurosis.org/cms/?q=node/1467},
+  abstract={While object orientation has long become a standard in software development, it has not been fully embraced in simulation modeling. There are many simulation frameworks which oﬀer object oriented modeling based on a programming language but no sophisticated graphical tool. This paper describes Simio, a new simulation software, which simpliﬁes model building by fully integrating an object-oriented modeling approach. Simulation models are built from objects, which are stored in object libraries and can be reused in multiple projects. Models themselves can be instantiated as objects in other models. A comprehensive set of standard objects is contained in Simio, while more reﬁned ones can be developed completely graphically, and without the need for programming. Following the concept of object-orientation, objects are created through composition of existing objects, sub-classing existing objects, and overriding their behavior, or by building new objects from scratch. This paper is to provide a comprehensive overview of the Simio simulation software with a focus on its underlying object-oriented paradigm.}
+}
+
+@inproceedings{meseth2009,
+  bibtex_show={true},
+  title={XML-based DEVS Modeling and Interpretation},
+  author={Meseth, Nicolas and Kirchhof, Patrick and Witte, Thomas},
+  booktitle={Proceedings of the 2009 Spring Simulation Multiconference},
+  year={2009},
+  html={https://dl.acm.org/doi/10.5555/1639809.1655381},
+  abstract={There are various implementations for the DEVS formalism in different programming languages. Examples are DEVS-JAVA, DEVS/C++, and SmallDEVS. A model written for a specific simulator implementation cannot be readily reused by other DEVS simulators, especially if they are written in a different programming language. For models to become independent of the programming language, recent approaches such as DEVS-XML or XFD-DEVS use XML to model DEVS, and they translate the model to a simulator specific representation in order to simulate it. This work shares the idea to model DEVS in an XML-based manner. An XML Schema for the language, called XLSC, is presented. The here presented approach differs from the above quoted in that it does not translate the model to the target simulator's programming language. Instead, an XLSC model is directly interpreted. For this, a parser and interpreter are prototypically developed in Java, and it is shown how both can be applied to simulate XLSC models with DEVSJAVA. If an interpreter exists, the use of XLSC enables models to be exchangable among different DEVS simulators regardless of their implementation language. The interpreter thereby acts as the interface between the simulator and the model.}
+}
+
+@inproceedings{meseth2009,
+  bibtex_show={true},
+  title={XML-based DEVS Modeling and Interpretation},
+  author={Meseth, Nicolas and Kirchhof, Patrick and Witte, Thomas},
+  booktitle={Proceedings of the 2009 Spring Simulation Multiconference},
+  year={2009},
+  html={https://dl.acm.org/doi/10.5555/1639809.1655381},
+  abstract={There are various implementations for the DEVS formalism in different programming languages. Examples are DEVS-JAVA, DEVS/C++, and SmallDEVS. A model written for a specific simulator implementation cannot be readily reused by other DEVS simulators, especially if they are written in a different programming language. For models to become independent of the programming language, recent approaches such as DEVS-XML or XFD-DEVS use XML to model DEVS, and they translate the model to a simulator specific representation in order to simulate it. This work shares the idea to model DEVS in an XML-based manner. An XML Schema for the language, called XLSC, is presented. The here presented approach differs from the above quoted in that it does not translate the model to the target simulator's programming language. Instead, an XLSC model is directly interpreted. For this, a parser and interpreter are prototypically developed in Java, and it is shown how both can be applied to simulate XLSC models with DEVSJAVA. If an interpreter exists, the use of XLSC enables models to be exchangable among different DEVS simulators regardless of their implementation language. The interpreter thereby acts as the interface between the simulator and the model.}
+}
+
+@inproceedings{meseth2008,
+  bibtex_show={true},
+  author={Meseth, Nicolas},
+  doi={},
+  booktitle={Proceedings of the 40th Conference on Winter Simulation},
+  title={Poster: An XML-based language for DEVS components},
+  year={2008},
+  month={December},
+  day={7},
+  pages={2948},
+  html={https://dl.acm.org/doi/10.5555/1516744.1517285} 
+}
+
+@inproceedings{kirchhof2008,
+  bibtex_show={true},
+  author={Kirchhof, Patrick and Meseth, Nicolas and Witte, Thomas},
+  doi={},
+  booktitle={Proceedings of the 40th Conference on Winter Simulation},
+  title={Simulation based evaluation of the workload control concept for a company of the automobile industry},
+  year={2008},
+  month={December},
+  day={7},
+  pages={1856-1862},
+  pdf={https://www.informs-sim.org/wsc08papers/228.pdf} 
+}
+
+
 

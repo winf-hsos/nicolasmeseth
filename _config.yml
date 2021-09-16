@@ -1,6 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # bundle exec jekyll serve
+# chcp 65001
 # -----------------------------------------------------------------------------
 
 title: Prof. Dr. Nicolas Meseth
@@ -29,7 +30,7 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 # -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
-
+encoding: utf-8
 navbar_fixed: true
 footer_fixed: true
 
