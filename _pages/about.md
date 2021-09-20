@@ -22,3 +22,5 @@ Since 2016, I am a professor for information systems (German: Wirtschaftsinforma
 Because I am the only professor with a dedicated focus on topics of digitalization at our faculty, the topics I cover in teaching are broad. In the mandatory introductory course (2nd semester), I introduce the **fundamentals of digital computers and digitalization**. In subsequent optional courses, students can learn about **information management**, **data analytics**, **web engineering**, and the **impacts of current digital technologies and how to build solutions with them**. In our [graduate program](https://www.hs-osnabrueck.de/en/study/study-offerings/master/agriculture-food-science-and-business-meng/), I teach courses on **big data analytics** and **e-commerce**.
 
 I live in Osnabrück, am happily married and have two wonderful children.
+
+---
