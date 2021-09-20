@@ -48,6 +48,10 @@ Folgende Punkte könnten teil eines Modul mit dem Namen Web Engineering sein, st
 - Verwendung serverseitiger Skriptsprachen wie PHP
 - JavaScript-Frameworks wie React, AngularJS oder VueJS
 
+### Wie wird geprüft?
+
+Die Prüfungsform im Wintersemester 21/22 ist die **mündliche Prüfung**. Je nach Situation kann die Prüfung in Präsenz oder online durchgeführt werden. Dabei veröffentliche ich 1 Woche vor dem Prüfungstermin eine Aufgabenbeschreibung, die eine zu entwickelnde Webanwendung beinhaltet. Diese sollt ihr innerhalb einer Woche umsetzen und eure Lösung 24 Stunden vor der mündlichen Prüfung einreichen. Auf Basis eurer Lösung werden und ich und eine Besitzerin euch in der mündlichen Prüfung Fragen stellen.
+
 Solltet ihr Fragen haben schreibt mir gerne eine Nachricht über unsere MS Teams Plattform.
 
 Bis bald,
