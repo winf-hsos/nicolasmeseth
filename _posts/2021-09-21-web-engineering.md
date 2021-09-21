@@ -50,9 +50,13 @@ Folgende Punkte könnten teil eines Modul mit dem Namen Web Engineering sein, st
 
 ### Wie wird geprüft?
 
-Die Prüfungsform im Wintersemester 21/22 ist die **mündliche Prüfung**. Je nach Situation kann die Prüfung in Präsenz oder online durchgeführt werden. Dabei veröffentliche ich 1 Woche vor dem Prüfungstermin eine Aufgabenbeschreibung, die eine zu entwickelnde Webanwendung beinhaltet. Diese sollt ihr innerhalb einer Woche umsetzen und eure Lösung 24 Stunden vor der mündlichen Prüfung einreichen. Auf Basis eurer Lösung werden und ich und eine Besitzerin euch in der mündlichen Prüfung Fragen stellen.
+Die Prüfungsform im Wintersemester 21/22 ist die **mündliche Prüfung**. Je nach Situation kann die Prüfung in Präsenz oder online durchgeführt werden. Diese Entscheidung können wir erst zu Beginn 2022 fällen. Eine Woche vor dem Prüfungstermin erhaltet ihr von mir eine Aufgabenbeschreibung, die eine zu entwickelnde Webanwendung beschreibt. Diese sollt ihr innerhalb der Woche bis zur Prüfung umsetzen und eure Lösung 24 Stunden vor der mündlichen Prüfung einreichen. Auf Basis eurer Lösung werden und ich und eine Besitzerin euch in der mündlichen Prüfung Fragen stellen.
 
-Solltet ihr Fragen haben schreibt mir gerne eine Nachricht über unsere MS Teams Plattform.
+### Vorwissen?
+
+Für dieses Modul setze ich keine Kenntnisse voraus. Natürlich wird es euch helfen, wenn ihr vorher schon mal was mit Webseiten gemacht habt. Wir beginnen aber bei Null und helfen allen, den Einstieg möglichst einfach zu bekommmen.
+
+Ich freue mich, wenn ihr euch zahlreich für das Modul anmeldet! Solltet ihr Fragen haben schreibt mir gerne eine Nachricht über unsere MS Teams Plattform.
 
 Bis bald,
 
