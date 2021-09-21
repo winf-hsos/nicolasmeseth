@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  Das Modul Web Engineering
-date:   2021-09-21 00:00:00
-description: Im Modul Web Engineering könnt ihr lernen, wie ihr eine moderne Webseite mit HTMl, CSS und JavaScript erstellt.
-published: true
+title:  Das Modul Applied Analytics
+date:   2021-09-23 00:00:00
+description: Im Modul Applied Analytics könnt lernt ihr die Grundlagen im Umgang mit Daten und deren Analyse. Ihr lernt mit Databricks und Tableau zwei wichtige Werkzeuge kennen.
+published: false
 ---
 
-Wie in jedem Wintersemester können Studierende im [Studiengang Wirtschaftsingenieurwesen Agrar/Lebensmittel](https://www.hs-osnabrueck.de/studium/studienangebot/bachelor/wirtschaftsingenieurwesen-agrarlebensmittel-beng/) ab dem 3. Semester viele Wahlmodule belegen. Darunter fällt auch mein Modul [**Web Engineering**](https://www.hs-osnabrueck.de/module/44b0585/).
+Wie in jedem Wintersemester können Studierende im [Studiengang Wirtschaftsingenieurwesen Agrar/Lebensmittel](https://www.hs-osnabrueck.de/studium/studienangebot/bachelor/wirtschaftsingenieurwesen-agrarlebensmittel-beng/) ab dem 3. Semester viele Wahlmodule belegen. Darunter fällt auch mein Modul [**Applied Analytics**](https://www.hs-osnabrueck.de/module/44b0586/).
 
 ### Worum geht es?
 
@@ -31,7 +31,6 @@ Es ist wichtig zu verstehen, dass es sich bei diesem Modul, wie bei allen meinen
 Wir beginnen schon von der ersten Sitzung an mit der Entwicklung von Webseiten. Dafür nutzen wir die Cloud-basierte Entwicklungsplattform [Glitch](https://glitch.me/). Ihr seid von Anfang an aufgefordert, euch mit der Webentiwcklung und Programmierung selbständig und kontinuierlich auseinanderzusetzen. Dazu bearbeitet ihr jede Woche verschiedene Übungsaufgaben. Eure Lösungen besprechen wir in den Sitzungen (Montag und Freitag) und diskutieren gemeinsam eure Fragen. Neue Lerninhalte, die jede Woche hinzukommen und eure Möglichkeiten erweitern, stelle ich überwiegend in Form von **Material zum Selbststudium** bereit. Dazu gehören Texte, Tutorials und Videos. Diese studiert ihr selbständig und wendet sie in den Übungsaufgaben an.
 
 Das didaktische Konzept des Moduls ist an den **Flipped Classroom** angelehnt. Die Sitzungen werden nicht für die klassische Frontalvorlesung genutzt, sondern für die Vorstellung eurer Lösungen und die Diskussion eurer Fragen. Dafür ist es essenziell wichtig, dass ihr euch a) mit dem Material auseinandergesetzt und b) die Übungsaufgaben gelöst habt. Nur dann können wir die wertvolle gemeinsame Zeit gewinnbringend nutzen.
-
 
 #### Durchgängige Todo-Abwendung als Lernbeispiel
 
