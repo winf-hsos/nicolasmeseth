@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="nicolasmeseth.de/feed.xml" rel="self" type="application/atom+xml" /><link href="nicolasmeseth.de/" rel="alternate" type="text/html" /><updated>2021-09-21T07:52:37+00:00</updated><id>nicolasmeseth.de/feed.xml</id><title type="html">Prof. Dr. Nicolas Meseth</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+</subtitle><entry><title type="html">Das Modul Web Engineering</title><link href="nicolasmeseth.de/blog/2021/web-engineering/" rel="alternate" type="text/html" title="Das Modul Web Engineering" /><published>2021-09-21T00:00:00+00:00</published><updated>2021-09-21T00:00:00+00:00</updated><id>nicolasmeseth.de/blog/2021/web-engineering</id><content type="html" xml:base="nicolasmeseth.de/blog/2021/web-engineering/">&lt;p&gt;Wie in jedem Wintersemester können Studierende im &lt;a href=&quot;https://www.hs-osnabrueck.de/studium/studienangebot/bachelor/wirtschaftsingenieurwesen-agrarlebensmittel-beng/&quot;&gt;Studiengang Wirtschaftsingenieurwesen Agrar/Lebensmittel&lt;/a&gt; ab dem 3. Semester viele Wahlmodule belegen. Darunter fällt auch mein Modul &lt;a href=&quot;https://www.hs-osnabrueck.de/module/44b0585/&quot;&gt;&lt;strong&gt;Web Engineering&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;worum-geht-es&quot;&gt;Worum geht es?&lt;/h3&gt;
+
+&lt;p&gt;Wie in allen meinen Modulen aus dem Fachgebiet Wirtschaftsinformatik geht es um wichtige Aspekte der Digitalisierung im betriebswirtschaftlichen Zusammenhang. Webseiten, Webanwendungen und mobile Apps sind für Firmen und deren Kunden zentrale Instrumente für viele Geschäftsprozesse. Denkt nur an die vielen Anwendungsszenarien, in denen alleine Webtechnologien eine Rolle spielen: E-Commerce, Corporate Webseiten, Kampagnenseiten, die eigene App oder das firmeninterne Intranet. Zu wissen, wie Webtechnologien funktionieren und wie man damit eigene Lösungen gestaltet, erhöht unmittelbar euren Marktwert. Ihr könnt selbst Hand anlegen oder euren Kolleg*innen helfen und seid damit gefragte Mitarbeiter *innen. Dabei spielt es keine Rolle, ob ihr eure eigene Firma habt, diese noch gründen wollt oder angestellt seid.&lt;/p&gt;
+
+&lt;h3 id=&quot;was-lernt-ihr-konkret&quot;&gt;Was lernt ihr konkret?&lt;/h3&gt;
+
+&lt;p&gt;Zusammengefasst verfolge ich mit dem Modul folgende Lernziele:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Verstehen, wie das Internet und Webseiten funktionieren.&lt;/li&gt;
+  &lt;li&gt;Wichtige Aspekte bei der Entwicklung von Webseiten kennen und berücksichtigen (u. a. Farben, Bilder, Responsive Design, Page Load Speed)&lt;/li&gt;
+  &lt;li&gt;Die Rolle von &lt;strong&gt;HTML&lt;/strong&gt;, &lt;strong&gt;CSS&lt;/strong&gt; und &lt;strong&gt;JavaScript&lt;/strong&gt; im Kontext von Webseiten verstehen und die drei Sprachen für die Erstellung eigener Webseiten erfolgreich zum Einsatz bringen.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://getbootstrap.com/docs/5.0/getting-started/introduction/&quot;&gt;&lt;strong&gt;Boostrap&lt;/strong&gt;&lt;/a&gt; als Beispiel für moderne CSS-Frameworks kennen und anwenden können.&lt;/li&gt;
+  &lt;li&gt;Am Beispiel der Programmiersprache &lt;strong&gt;JavScript&lt;/strong&gt; die Grundlagen der Programmierung verstehen und anwenden können.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Es ist wichtig zu verstehen, dass es sich bei diesem Modul, wie bei allen meinen Modulen, um ein sehr praxisorientiertes Modul handelt. Das bedeutet, dass wir nicht nur über moderne Webseiten sprechen werden, sondern dass &lt;strong&gt;die hands-on Gestaltung und Programmierung von Websieten&lt;/strong&gt; ein wichtiger didaktischer Bestandteil ist. Ihr solltet also ein großes Maß an Eigeninitiative und Lust auf die Arbeit mit neuen Technologien über das Semester hinweg mitbringen.&lt;/p&gt;
+
+&lt;h3 id=&quot;wie-lernt-ihr-das&quot;&gt;Wie lernt ihr das?&lt;/h3&gt;
+
+&lt;h4 id=&quot;flipped-classroom-als-didaktisches-modell&quot;&gt;Flipped Classroom als didaktisches Modell&lt;/h4&gt;
+
+&lt;p&gt;Wir beginnen schon von der ersten Sitzung an mit der Entwicklung von Webseiten. Dafür nutzen wir die Cloud-basierte Entwicklungsplattform &lt;a href=&quot;https://glitch.me/&quot;&gt;Glitch&lt;/a&gt;. Ihr seid von Anfang an aufgefordert, euch mit der Webentiwcklung und Programmierung selbständig und kontinuierlich auseinanderzusetzen. Dazu bearbeitet ihr jede Woche verschiedene Übungsaufgaben. Eure Lösungen besprechen wir in den Sitzungen (Montag und Freitag) und diskutieren gemeinsam eure Fragen. Neue Lerninhalte, die jede Woche hinzukommen und eure Möglichkeiten erweitern, stelle ich überwiegend in Form von &lt;strong&gt;Material zum Selbststudium&lt;/strong&gt; bereit. Dazu gehören Texte, Tutorials und Videos. Diese studiert ihr selbständig und wendet sie in den Übungsaufgaben an.&lt;/p&gt;
+
+&lt;p&gt;Das didaktische Konzept des Moduls ist an den &lt;strong&gt;Flipped Classroom&lt;/strong&gt; angelehnt. Die Sitzungen werden nicht für die klassische Frontalvorlesung genutzt, sondern für die Vorstellung eurer Lösungen und die Diskussion eurer Fragen. Dafür ist es essenziell wichtig, dass ihr euch a) mit dem Material auseinandergesetzt und b) die Übungsaufgaben gelöst habt. Nur dann können wir die wertvolle gemeinsame Zeit gewinnbringend nutzen.&lt;/p&gt;
+
+&lt;h4 id=&quot;durchgängige-todo-abwendung-als-lernbeispiel&quot;&gt;Durchgängige Todo-Abwendung als Lernbeispiel&lt;/h4&gt;
+
+&lt;p&gt;In den Übungsaufgaben dreht es sich überwiegend um ein gemeinsames und durchgängies Lernbeispiel einer Todo-Anwendung, die jede Teilnehmerin individuell über das Semester hinweg entwickelt. Dabei lernen wir die wichtigsten Prozesse und Komponenten von Webanwendungen kennen und setzen sie in unserer App um.&lt;/p&gt;
+
+&lt;h3 id=&quot;was-lernt-ihr-nicht&quot;&gt;Was lernt ihr nicht?&lt;/h3&gt;
+
+&lt;p&gt;Folgende Punkte könnten teil eines Modul mit dem Namen Web Engineering sein, stehen bei uns aber nicht im Fokus:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Die Entwicklung nativer Smartphone-Apps&lt;/li&gt;
+  &lt;li&gt;Content-Management-Systeme wie Wordpresse o. ä.&lt;/li&gt;
+  &lt;li&gt;E-Commerce-Anwendungen wie WooCommerce oder Shopify&lt;/li&gt;
+  &lt;li&gt;Webseitengeneratoren wie Jekyll&lt;/li&gt;
+  &lt;li&gt;Verwendung serverseitiger Skriptsprachen wie PHP&lt;/li&gt;
+  &lt;li&gt;JavaScript-Frameworks wie React, AngularJS oder VueJS&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;wie-wird-geprüft&quot;&gt;Wie wird geprüft?&lt;/h3&gt;
+
+&lt;p&gt;Die Prüfungsform im Wintersemester 21/22 ist die &lt;strong&gt;mündliche Prüfung&lt;/strong&gt;. Je nach Situation kann die Prüfung in Präsenz oder online durchgeführt werden. Diese Entscheidung können wir erst zu Beginn 2022 fällen. Eine Woche vor dem Prüfungstermin erhaltet ihr von mir eine Aufgabenbeschreibung, die eine zu entwickelnde Webanwendung beschreibt. Diese sollt ihr innerhalb der Woche bis zur Prüfung umsetzen und eure Lösung 24 Stunden vor der mündlichen Prüfung einreichen. Auf Basis eurer Lösung werden und ich und eine Besitzerin euch in der mündlichen Prüfung Fragen stellen.&lt;/p&gt;
+
+&lt;h3 id=&quot;vorwissen&quot;&gt;Vorwissen?&lt;/h3&gt;
+
+&lt;p&gt;Für dieses Modul setze ich keine Kenntnisse voraus. Natürlich wird es euch helfen, wenn ihr vorher schon mal was mit Webseiten gemacht habt. Wir beginnen aber bei Null und helfen allen, den Einstieg möglichst einfach zu bekommmen.&lt;/p&gt;
+
+&lt;p&gt;Ich freue mich, wenn ihr euch zahlreich für das Modul anmeldet! Solltet ihr Fragen haben schreibt mir gerne eine Nachricht über unsere MS Teams Plattform.&lt;/p&gt;
+
+&lt;p&gt;Bis bald,&lt;/p&gt;
+
+&lt;p&gt;Nicolas&lt;/p&gt;</content><author><name></name></author><summary type="html">Wie in jedem Wintersemester können Studierende im Studiengang Wirtschaftsingenieurwesen Agrar/Lebensmittel ab dem 3. Semester viele Wahlmodule belegen. Darunter fällt auch mein Modul Web Engineering.</summary></entry><entry><title type="html">Das neue Wintersemester 21/22</title><link href="nicolasmeseth.de/blog/2021/das-neue-wintersemester/" rel="alternate" type="text/html" title="Das neue Wintersemester 21/22" /><published>2021-09-15T00:00:00+00:00</published><updated>2021-09-15T00:00:00+00:00</updated><id>nicolasmeseth.de/blog/2021/das-neue-wintersemester</id><content type="html" xml:base="nicolasmeseth.de/blog/2021/das-neue-wintersemester/">&lt;p&gt;Das neue Semester steht vor der Tür. In diesem Beitrag möchte ich euch ein paar Informationen geben, für den Fall, dass ihr eines meiner Module belegt.&lt;/p&gt;
+
+&lt;h2 id=&quot;zurück-zur-normalität&quot;&gt;Zurück zur Normalität&lt;/h2&gt;
+
+&lt;p&gt;Wie ihr sicher schon wisst, wird die Hochschule Osnabrück &lt;a href=&quot;https://www.hs-osnabrueck.de/corona/&quot;&gt;nach drei Online-Semestern versuchen, in die Präsenzlehre zurückkehren&lt;/a&gt;. Um das möglichst sicher zu gestalten, wird die bekannte 3G-Regel angewendet: Wer an einer Veranstaltung in Präsenz teilnehmen möchte, muss entweder geimpft, genesen oder getestet sein.&lt;/p&gt;
+
+&lt;h2 id=&quot;online-oder-präsenz-ihr-habt-die-wahl&quot;&gt;Online oder Präsenz: Ihr habt die Wahl&lt;/h2&gt;
+
+&lt;p&gt;Auch ich werde in meinen Veranstaltungen wieder Präsenztermine anbieten. In den Bachelormodulen &lt;a href=&quot;https://www.hs-osnabrueck.de/module/44b0586/&quot;&gt;Applied Analytics&lt;/a&gt;, &lt;a href=&quot;https://www.hs-osnabrueck.de/module/44b0578/&quot;&gt;Information Management&lt;/a&gt; und &lt;a href=&quot;https://www.hs-osnabrueck.de/module/44b0585/&quot;&gt;Web Engineering&lt;/a&gt; werden die Montagstermine am Campus stattfinden. Die Freitagstermine, die für individuelle Fragen reserviert sind, werden dagegen vollständig online via Zoom angeboten. In der Vergangenheit hat sich gezeigt, dass der Freitag bei Studierenden kein beliebter Tag ist und die Anwesenheit auf dem Campus daher ohnehin stark eingeschränkt ist.&lt;/p&gt;
+
+&lt;p&gt;Auch für Sitzungen am Montag möchte ich parallel die virtuelle Teilnahme via Zoom ermöglichen. Ihr habt die freie Wahl, ob ihr für die Veranstaltung zum Campus kommen oder lieber von zuhause aus teilnehmen wollt. Ausnahme sind Studierende, die nicht vollständig geimpft sind. Euch möchte ich bitten, in jedem Fall das Online-Angebot wahrzunehmen, bis ihr vollen Impfschutz habt.&lt;/p&gt;
+
+&lt;p&gt;Auch in den Masterveranstaltungen werde ich neben der Präsenz die Online-Teilnahme via Zoom ermöglichen. Das parallele Online-Angebot via Zoom hat den Vorteil, dass wir jede Sitzung vollständig oder zumindest teilweise aufzeichnen und für das Selbsstudium bereitstellen können und werden. Wie gewohnt wird hier unsere &lt;strong&gt;OpenCast&lt;/strong&gt; Plattform zum Einsatz kommen.&lt;/p&gt;
+
+&lt;h2 id=&quot;ilias-pilot&quot;&gt;ILIAS Pilot&lt;/h2&gt;
+
+&lt;p&gt;Wie vielleicht einige wissen, wird unser aktuelles Lernmanagementsystem (LMS) &lt;a href=&quot;http://osca.hs-osnabrueck.de/&quot;&gt;OSCA&lt;/a&gt; bald durch das neue System ILIAS abgelöst. Um eine reibungslose Einführung zu gewährleisten, finden in diesem und im folgenden Semester Piloten statt. Das bedeutet konkret, dass einzelne Dozent*innen ihre Lehrveranstaltungen schon jetzt auf freiwilliger Basis über das neue LMS abwickeln können. Da gehöre ich dazu und ich freue mich, dass wir die Möglichkeit haben, an diesem Piloten gemeinsam teilzunehmen.&lt;/p&gt;
+
+&lt;p&gt;Sobald ich mit der Einrichtung der Veranstaltungen im neuen System ILIAS fertig bin, werde ich euch via OSCA-Ankündigung einen Link zukommen lassen, über den ihr direkt zur Veranstaltung in ILIAS gelangt. Von dort an ist erstmal nur ILIAS relevant. Die Prüfungsanmeldung erfolgt in diesem Semester aber weiter über OSCA (!).&lt;/p&gt;
+
+&lt;p&gt;Hier geht es schon jetzt zur Einstiegssteite der neuen Lernplattform: &lt;a href=&quot;https://lms.hs-osnabrueck.de/&quot;&gt;https://lms.hs-osnabrueck.de/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ich freue mich auf euch im kommenden Wintersemester und bin sehr gespannt, wie sich die Rückkher zur Präsent anfühlen wird.&lt;/p&gt;
+
+&lt;p&gt;Bis dahin&lt;/p&gt;
+
+&lt;p&gt;Nicolas&lt;/p&gt;</content><author><name></name></author><summary type="html">Das neue Semester steht vor der Tür. In diesem Beitrag möchte ich euch ein paar Informationen geben, für den Fall, dass ihr eines meiner Module belegt.</summary></entry></feed>
